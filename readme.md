@@ -1,11 +1,11 @@
-# Заголовок 
-## Подзаголовок
-**Жирный текст** 
+# Заголовок  - нужно поставить "#"
+## Подзаголовок - нужно поставить "##"
+**Жирный текст** - нужно поставить "**" в начале и конце
 
-*Курсив*
+*Курсив* - нужно поставить "*" в начале и конце
 
-~~Зачеркнутый текст~~
+~~Зачеркнутый текст~~ - нужно поставить "~~" в начале и неце
 
->Цитата
+>Цитата - нужно поставить ">" в начале
 
-[Это ссылка](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html?ysclid=l6o58hitb0615709075)
+[Это ссылка](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html?ysclid=l6o58hitb0615709075) - Текст ссылки нужно взять в "[]", а ссылку в "()"
